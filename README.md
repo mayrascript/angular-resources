@@ -33,6 +33,7 @@
 
 - [Angular Hispano (ES)](https://angular.lat)
 - [Angular Communities (ES)](https://www.angular-communities.com/)
+- [Angular Discord](https://discord.gg/angular)
 
 ## Observables & RxJS
 
