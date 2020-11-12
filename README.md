@@ -23,7 +23,7 @@
 
 ## Best Practices
 
-- [Angular Style Guide (EN)] (https://angular.io/guide/styleguide)
+- [Angular Style Guide (EN)](https://angular.io/guide/styleguide)
 
 ## Courses
 
