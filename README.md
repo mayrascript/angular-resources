@@ -12,6 +12,7 @@
 ## Typescript
 
 - [Decorator (ES)](https://refactoring.guru/es/design-patterns/decorator/typescript/example)
+- [Design Patterns with Typescript (ES)](https://refactoring.guru/es/design-patterns/typescript)
 
 ## Basics
 
