@@ -30,6 +30,7 @@
 ## Courses
 
 - [Angular Fundamentals (EN)](https://thinkster.io/topics/fundamentals-of-angular)
+- [Curso Práctico Básico (ES)](https://medium.com/@Frostq/recursos-para-aprender-angular-en-espa%C3%B1ol-y-gratis-7b4dae2729f4)
 
 ## Community
 
