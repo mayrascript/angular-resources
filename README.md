@@ -18,10 +18,11 @@
 
 - [✨Aprendiendo Angular 😀💪 (ES)](https://ngchallenges.gitbook.io/project/)
 - [🦋 Bienvenid@s a la Metamorfosis de Angular 🦋 (ES)](https://ngchallenges.gitbook.io/metamorfosis-de-angular/)
+- [Codelab - Create First Angular App (EN)](https://codelab.fun/angular/create-first-app/intro)
+
 - [Directivas en Angular 🧑‍🎨 (ES)](https://vanessamarely.medium.com/directivas-en-angular-efb8a8cf78e0)
 - [Comunicación entre Componentes (ES)](https://codingpotions.com/angular-comunicacion-componentes)
 - [Angular Componentes y sus ciclos de Vida (ES)](https://medium.com/angular-chile/angular-componentes-y-sus-ciclos-de-vida-aa639e13a688)
-
 
 ## Best Practices
 
