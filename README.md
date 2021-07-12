@@ -24,6 +24,9 @@
 - [Comunicación entre Componentes (ES)](https://codingpotions.com/angular-comunicacion-componentes)
 - [Angular Componentes y sus ciclos de Vida (ES)](https://medium.com/angular-chile/angular-componentes-y-sus-ciclos-de-vida-aa639e13a688)
 
+## Testing
+- [Unit testing with Angular (EN)](https://codecraft.tv/courses/angular/unit-testing)
+
 ## Best Practices
 
 - [Angular Style Guide (EN)](https://angular.io/guide/styleguide)
