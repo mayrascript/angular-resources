@@ -11,6 +11,9 @@
 
 ## Typescript
 
+- [Basic Types on Typescript (EN)](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+- [Everyday on Typescript (EN)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+- [Objects and Interfaces on Typescript (EN)](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 - [Decorator (ES)](https://refactoring.guru/es/design-patterns/decorator/typescript/example)
 - [Design Patterns with Typescript (ES)](https://refactoring.guru/es/design-patterns/typescript)
 
