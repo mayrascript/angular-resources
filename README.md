@@ -2,7 +2,7 @@
 
 ## Documentation
 
-- [Official Documentation (EN)](https://angular.io/)
+- [Official Documentation (:uk:)](https://angular.io/)
 - [Documentación Oficial (ES) ](https://docs.angular.lat)
 
 ## Main Concepts
@@ -11,9 +11,9 @@
 
 ## Typescript
 
-- [Basic Types on Typescript (EN)](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
-- [Everyday on Typescript (EN)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
-- [Objects and Interfaces on Typescript (EN)](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+- [Basic Types on Typescript (:uk:)](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+- [Everyday on Typescript (:uk:)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+- [Objects and Interfaces on Typescript (:uk:)](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 - [Decorator (ES)](https://refactoring.guru/es/design-patterns/decorator/typescript/example)
 - [Design Patterns with Typescript (ES)](https://refactoring.guru/es/design-patterns/typescript)
 
@@ -21,22 +21,27 @@
 
 - [✨Aprendiendo Angular 😀💪 (ES)](https://ngchallenges.gitbook.io/project/)
 - [🦋 Bienvenid@s a la Metamorfosis de Angular 🦋 (ES)](https://ngchallenges.gitbook.io/metamorfosis-de-angular/)
-- [Codelab - Create First Angular App (EN)](https://codelab.fun/angular/create-first-app/intro)
+- [Codelab - Create First Angular App (:uk:)](https://codelab.fun/angular/create-first-app/intro)
 
 - [Directivas en Angular 🧑‍🎨 (ES)](https://vanessamarely.medium.com/directivas-en-angular-efb8a8cf78e0)
 - [Comunicación entre Componentes (ES)](https://codingpotions.com/angular-comunicacion-componentes)
 - [Angular Componentes y sus ciclos de Vida (ES)](https://medium.com/angular-chile/angular-componentes-y-sus-ciclos-de-vida-aa639e13a688)
 
+
+## Intermediate
+
+- [Angular ngFor async pipe (:uk:)](https://ultimatecourses.com/blog/angular-ngfor-async-pipe)
+
 ## Testing
-- [Unit testing with Angular (EN)](https://codecraft.tv/courses/angular/unit-testing)
+- [Unit testing with Angular (:uk:)](https://codecraft.tv/courses/angular/unit-testing)
 
 ## Best Practices
 
-- [Angular Style Guide (EN)](https://angular.io/guide/styleguide)
+- [Angular Style Guide (:uk:)](https://angular.io/guide/styleguide)
 
 ## Courses
 
-- [Angular Fundamentals (EN)](https://thinkster.io/topics/fundamentals-of-angular)
+- [Angular Fundamentals (:uk:)](https://thinkster.io/topics/fundamentals-of-angular)
 - [Curso Práctico Básico (ES)](https://medium.com/@Frostq/recursos-para-aprender-angular-en-espa%C3%B1ol-y-gratis-7b4dae2729f4)
 
 ## Community
@@ -47,7 +52,7 @@
 
 ## Observables & RxJS
 
-- [Official Documentation RxJS (EN)](https://rxjs-dev.firebaseapp.com/)
+- [Official Documentation RxJS (:uk:)](https://rxjs-dev.firebaseapp.com/)
 - [¡Conozcamos los Observables! (ES)](https://medium.com/@mayrarodriguez/conozcamos-los-observables-15ee9e7c5aa9)
 - [Cómo crear un Store o State Management con RxJS y Angular Parte 1 (ES)](https://medium.com/@mayrarodriguez/c%C3%B3mo-crear-un-store-o-state-management-con-rxjs-en-angular-parte-1-2-fcc8cfcef6b4)
 - [Cómo crear un Store o State Management con RxJS y Angular Parte 2 (ES)](https://medium.com/@mayrarodriguez/c%C3%B3mo-crear-un-store-o-state-management-con-rxjs-en-angular-parte-2-2-cf0ad762b473)
