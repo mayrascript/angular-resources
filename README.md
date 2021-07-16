@@ -31,6 +31,7 @@
 ## Intermediate
 
 - [Angular ngFor async pipe (:uk:)](https://ultimatecourses.com/blog/angular-ngfor-async-pipe)
+- [PWA en Angular (:es:)](https://pwaexperts.io/tutoriales/convierte-aplicacion-angular-en-pwa)
 
 ## Testing
 - [Unit testing with Angular (:uk:)](https://codecraft.tv/courses/angular/unit-testing)
