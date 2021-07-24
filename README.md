@@ -31,6 +31,7 @@
 ## Intermediate
 
 - [Angular ngFor async pipe (:uk:)](https://ultimatecourses.com/blog/angular-ngfor-async-pipe)
+- [Guards/Guardianes (:es)](https://codingpotions.com/angular-seguridad)
 - [PWA en Angular (:es:)](https://pwaexperts.io/tutoriales/convierte-aplicacion-angular-en-pwa)
 
 ## Testing
