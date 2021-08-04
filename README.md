@@ -36,6 +36,7 @@
 
 ## Testing
 - [Unit testing with Angular (:uk:)](https://codecraft.tv/courses/angular/unit-testing)
+- [Unit Testing with Angular and Firebase (:uk)](https://fireship.io/lessons/angular-testing-guide-including-firebase/)
 
 ## Best Practices
 
