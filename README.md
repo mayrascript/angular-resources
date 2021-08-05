@@ -33,6 +33,7 @@
 - [Angular ngFor async pipe (:uk:)](https://ultimatecourses.com/blog/angular-ngfor-async-pipe)
 - [Guards/Guardianes (:es)](https://codingpotions.com/angular-seguridad)
 - [PWA en Angular (:es:)](https://pwaexperts.io/tutoriales/convierte-aplicacion-angular-en-pwa)
+- [CRUD with Firebase - Github project (:es:)](https://github.com/mayrascript/ng-crud-firebase)
 
 ## Testing
 - [Unit testing with Angular (:uk:)](https://codecraft.tv/courses/angular/unit-testing)
